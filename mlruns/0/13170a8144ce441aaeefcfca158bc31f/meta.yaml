@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/Desktop/MLFLOw/mlruns/0/13170a8144ce441aaeefcfca158bc31f/artifacts
+end_time: 1700996165077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13170a8144ce441aaeefcfca158bc31f
+run_name: melodic-zebra-470
+run_uuid: 13170a8144ce441aaeefcfca158bc31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700996162530
+status: 3
+tags: []
+user_id: acer

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/Desktop/MLFLOw/mlruns/0/4bb695769f5d498bb7fb00ec1a7322d8/artifacts
+end_time: 1700996228361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bb695769f5d498bb7fb00ec1a7322d8
+run_name: blushing-trout-466
+run_uuid: 4bb695769f5d498bb7fb00ec1a7322d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700996225425
+status: 3
+tags: []
+user_id: acer

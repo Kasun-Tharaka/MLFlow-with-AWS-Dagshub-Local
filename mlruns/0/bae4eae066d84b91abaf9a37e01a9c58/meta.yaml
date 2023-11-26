@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/Desktop/MLFLOw/mlruns/0/bae4eae066d84b91abaf9a37e01a9c58/artifacts
+end_time: 1700995775806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bae4eae066d84b91abaf9a37e01a9c58
+run_name: tasteful-mink-10
+run_uuid: bae4eae066d84b91abaf9a37e01a9c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700995772643
+status: 3
+tags: []
+user_id: acer

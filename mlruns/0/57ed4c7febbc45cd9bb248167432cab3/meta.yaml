@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/Desktop/MLFLOw/mlruns/0/57ed4c7febbc45cd9bb248167432cab3/artifacts
+end_time: 1700996187914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57ed4c7febbc45cd9bb248167432cab3
+run_name: caring-fish-694
+run_uuid: 57ed4c7febbc45cd9bb248167432cab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700996185382
+status: 3
+tags: []
+user_id: acer
